@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Front End Development & Python**
 
-- 👨‍💻 All of my projects are available at [paulinecedo.netlify.com](paulinecedo.netlify.com)
+- 👨‍💻 All of my projects are available at ([paulinecedo.netlify.com](https://paulinecedoportfolio.great-site.net/))
 
-- 📫 How to reach me **paulinecedo06@gmail.app**
+- 📫 How to reach me **paulinecedo06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
